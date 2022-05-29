@@ -1,6 +1,6 @@
 # NCAT
 
-<img src="https://github.com/nathalislight/NCAT/blob/main/NCAT.png" align="center" height="480" width="480">
+<img src="https://github.com/nathalislight/NCAT/blob/main/NCAT.png" align="center" height="320" width="320">
 
 NESCAT IS BACK LIKE NCAT PROJECT...
 
