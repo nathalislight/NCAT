@@ -1,0 +1,26 @@
+{
+  "name": "ds3231",
+  "keywords": "i2c, rtc, ds3231, time",
+  "description": "Arduino Library for DS3231 RTC",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/rodan/ds3231.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Petre Rodan",
+      "email": "2b4eda@subdimension.ro",
+      "url": "https://github.com/rodan/ds3231",
+      "maintainer": true
+    }
+  ],
+  "dependencies":
+  {
+
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "plarforms": "*"
+}
