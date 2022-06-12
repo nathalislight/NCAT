@@ -1,5 +1,7 @@
 # NCAT
 
+please use Arduino ESP32 CORE 1.0.5 or 1.0.6
+
 <img src="https://github.com/nathalislight/NCAT/blob/main/NCAT.png" align="center" height="320" width="320">
 
 NESCAT IS BACK LIKE NCAT PROJECT...
