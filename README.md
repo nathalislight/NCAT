@@ -2,7 +2,7 @@
 
 NEW: (micro) μNCAT SYSTEM 1.0 for ESP32S3 LILYGO T-QT
  
-https://github.com/ncat-system/micro-NCAT-LITE/
+<a href="https://github.com/ncat-system/micro-NCAT-LITE/">https://github.com/ncat-system/micro-NCAT-LITE</a>
 
 
 
